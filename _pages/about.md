@@ -12,7 +12,7 @@ redirect_from:
 
 
 
-I am currently a Ph.D. student in the School of Computer Science and Technology at Harbin Institute of Technology, Shenzhen, where I am fortunate to be advised by Prof. Jie Liu (IEEE Fellow) and Prof. Zenglin Xu. Prior to this, I received my Master's degree in Information and Communication Engineering from Sun Yat-Sen University and Bachelor's degree in Information and Interaction Design from South China University of Technology in 2020.
+I am currently a Ph.D. student in the School of Computer Science and Technology at Harbin Institute of Technology, Shenzhen, where I am fortunate to be advised by Prof. Jie Liu (IEEE Fellow) and Prof. Zenglin Xu. Prior to this, I received my Master's degree in Information and Communication Engineering from Sun Yat-Sen University in 2023, and Bachelor's degree in Information and Interaction Design from South China University of Technology in 2020.
 
 
 
