@@ -27,7 +27,7 @@ author:
   name             : "Zheshun Wu"
   pronouns         : # example: "she/her"  
   #bio              : "Short biography for the left-hand sidebar"
-  # location         : "Earth"
+  location         : "Shenzhen, China"
   # employer         : "Red Brick University"
   uri              : # URL
   email            : "wuzhsh23@gmail.com" 
@@ -41,7 +41,7 @@ author:
   # orcid            : "https://orcid.org/yourorcidurl"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  # bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
