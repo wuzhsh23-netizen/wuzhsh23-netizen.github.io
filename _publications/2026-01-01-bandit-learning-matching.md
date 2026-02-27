@@ -3,7 +3,7 @@ title: "Bandit Learning in Matching Markets Robust to Adversarial Corruptions"
 collection: publications
 category: conferences
 permalink: /publication/2026-01-01-bandit-learning-matching
-date: 2026-01
+date: 2026-01-01
 venue: 'International Conference on Learning Representations (ICLR 2026)'
 citation: 'Wu, Z., Zuo, J., Xu, Z., & Kong, F. (2026). Bandit Learning in Matching Markets Robust to Adversarial Corruptions. In ICLR.'
 ---
