@@ -40,7 +40,14 @@ My research interests lie broadly in **Trustworthy AI, Edge Intelligence, and Ef
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-{% include archive-single.html %}
+<ul class="publication-list">
+{% assign sorted_publications = site.publications | sort: "date" | reverse %}
+{% for post in sorted_publications %}
+<li>
+{% if post.pub_abbr %}<strong>[{{ post.pub_abbr }}]</strong> {% endif %}<a href="{{ base_path }}{{ post.url }}"><strong>{{ post.title }}</strong></a><br>
+{{ post.authors | replace: "Zheshun Wu", "<strong>Zheshun Wu</strong>" }}<br>
+{% if post.venue_line %}{{ post.venue_line }}{% elsif post.venue %}{{ post.venue }}{% endif %}
+</li>
 {% endfor %}
+</ul>
 
