@@ -1,0 +1,8 @@
+{% include base_path %}
+<li style="margin-bottom: 1.25em;">
+  [<strong style="color: #0000ee;">{{ post.pub_abbr }}</strong>]
+  <a href="{{ base_path }}{{ post.url }}"><strong>{{ post.title }}</strong></a><br>
+  {{ post.authors | replace: "Zheshun Wu", "<strong>Zheshun Wu</strong>" }}.<br>
+  {{ post.venue_display }}{% if post.venue_short %} (<strong>{{ post.venue_short }}</strong>){% endif %}, {{ post.date | default: "1900-01-01" | date: "%Y" }}.{% if post.paperurl or post.arxivurl %}<br>
+  {% if post.paperurl %}[<a href="{{ post.paperurl }}">PDF</a>]{% endif %}{% if post.arxivurl %} [<a href="{{ post.arxivurl }}">arXiv</a>]{% endif %}{% endif %}
+</li>
