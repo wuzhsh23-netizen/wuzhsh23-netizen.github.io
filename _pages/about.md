@@ -40,9 +40,7 @@ My research interests lie broadly in **Trustworthy AI, Edge Intelligence, and Ef
 
 {% include base_path %}
 
-<ul style="padding-left: 1.2em;">
-{% assign pubs = site.publications | sort: "date" | reverse %}
-{% for post in pubs %}
-{% include publication-compact.html %}
+{% for post in site.publications reversed %}
+{% include archive-single.html %}
 {% endfor %}
-</ul>
+
