@@ -19,9 +19,9 @@ My research interests lie broadly in **Trustworthy AI, Edge Intelligence, and Ef
 
 ## 🔥 News
 
-* **[June 2026]** One paper was accepted by UAI 2026!
-* **[Feb 2026]** One paper was accepted by Neural Networks!
-* **[Jan 2026]** One paper was accepted by ICLR 2026!
+* **[Jun. 2026]** One paper was accepted by UAI 2026!
+* **[Feb. 2026]** One paper was accepted by Neural Networks!
+* **[Jan. 2026]** One paper was accepted by ICLR 2026!
 
 ## Publications
 
