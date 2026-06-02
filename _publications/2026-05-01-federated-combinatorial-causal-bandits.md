@@ -1,11 +1,15 @@
 ---
-title: 'Federated Combinatorial Causal Bandits with Heterogeneous Causal Influences'
+title: Federated Combinatorial Causal Bandits with Heterogeneous Causal Influences
 collection: publications
 category: conferences
 permalink: /publication/2026-05-01-federated-combinatorial-causal-bandits
 date: 2026-05-01
-venue: 'Conference on Uncertainty in Artificial Intelligence (UAI 2026)'
-citation: 'Zheshun Wu, Wei Chen, Zenglin Xu, and Fang Kong. (2026). Federated Combinatorial Causal Bandits with Heterogeneous Causal Influences. In UAI.'
+venue: Conference on Uncertainty in Artificial Intelligence (UAI 2026)
+citation: Zheshun Wu, Wei Chen, Zenglin Xu, and Fang Kong. (2026). Federated Combinatorial Causal Bandits with Heterogeneous
+  Causal Influences. In UAI.
+pub_abbr: UAI '26
+authors: Zheshun Wu, Wei Chen, Zenglin Xu, and Fang Kong.
+venue_line: Conference on Uncertainty in Artificial Intelligence (UAI), 2026.
 ---
 
 This work studies federated combinatorial causal bandits under heterogeneous causal influences.
