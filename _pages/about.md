@@ -23,6 +23,15 @@ My research interests lie broadly in **Trustworthy AI, Edge Intelligence, and Ef
 * **[Feb. 2026]** One paper was accepted by Neural Networks!
 * **[Jan. 2026]** One paper was accepted by ICLR 2026!
 
+## Experience
+
+* **Research Intern, Noah’s Ark Lab, Huawei Technologies Ltd.**  
+  Jan. 2026 – July 2026. Mentor: Dr. Yu Pan. Project: Research on Expert Specialization in Large-Scale Pre-trained MoE Models.
+
+* **Visiting Student, Department of Statistics and Data Science, Southern University of Science and Technology.**  
+  Nov. 2024 – Sept. 2025. Supervisor: Prof. Fang Kong. Project: Research on Trustworthy Online Learning Algorithms for Multi-Agent Systems.
+  
+
 ## Publications
 
 
