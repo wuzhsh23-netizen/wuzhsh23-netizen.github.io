@@ -7,7 +7,7 @@ date: 2022-08-01
 venue: IEEE Sensors Journal
 citation: Zheshun Wu, Xiaoping Wu, and Yunliang Long. (2022). Prediction Based Semi-supervised Online Personalized Federated
   Learning for Indoor Localization. IEEE Sensors Journal.
-pub_abbr: Sensors '22
+pub_abbr: SENSJ '22
 authors: Zheshun Wu, Xiaoping Wu, and Yunliang Long.
 venue_line: IEEE Sensors Journal, 2022.
 ---
