@@ -9,7 +9,7 @@ redirect_from:
 
 # Hi, I am Zheshun Wu 👋
 
-I am currently a Ph.D. student in the School of Computer Science and Technology at Harbin Institute of Technology, Shenzhen, where I am fortunate to be advised by Prof. Jie Liu (IEEE Fellow) and Prof. Zenglin Xu. Prior to this, I received my Master's degree in Information and Communication Engineering from Sun Yat-sen University in 2023, and my Bachelor's degree in Information and Interaction Design from South China University of Technology in 2020.
+I am currently a Ph.D. student in the School of Computer Science and Technology at Harbin Institute of Technology, Shenzhen, where I am fortunate to be advised by [Prof. Jie Liu](https://drjieliu.github.io/) (IEEE Fellow) and [Prof. Zenglin Xu](https://faculty.fudan.edu.cn/xuzenglin/en/index/1155975/list/index.htm). During my Ph.D. studies, I also spent one year as a visiting student at the Southern University of Science and Technology, supervised by [Prof. Fang Kong](https://fangkongx.github.io/). Prior to this, I received my Master's degree in Information and Communication Engineering from Sun Yat-sen University in 2023, and my Bachelor's degree in Information and Interaction Design from South China University of Technology in 2020.
 
 My research broadly focuses on developing efficient, trustworthy, and generalizable machine learning algorithms for communication and networked systems. In particular, I am interested in leveraging machine learning theory to understand and improve learning, optimization, and decision-making in distributed and resource-constrained environments.
 
