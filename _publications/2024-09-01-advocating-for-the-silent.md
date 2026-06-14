@@ -9,7 +9,7 @@ citation: 'Zheshun Wu, Zenglin Xu, Dun Zeng, Qifan Wang, and Jie Liu. (2024). Ad
   Generalization for Non-Participating Clients. IEEE Transactions on Neural Networks and Learning Systems.'
 pub_abbr: TNNLS '25
 authors: Zheshun Wu, Zenglin Xu, Dun Zeng, Qifan Wang, and Jie Liu.
-venue_line: IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2024.
+venue_line: IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2025.
 ---
 
 This work investigates federated generalization for non-participating clients.
