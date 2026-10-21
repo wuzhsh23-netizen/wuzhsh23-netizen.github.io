@@ -27,7 +27,7 @@ My current research interests include:
 ## Experience
 
 * **Research Intern, Noah’s Ark Lab, Huawei Technologies Ltd.**<br>
-  **Time:** Jan. 2026 – July 2026<br>
+  **Time:** Jan. 2026 – Jan 2027<br>
   **Mentor:** Dr. Yu Pan<br>
   **Project:** Research on Expert Specialization in Large-Scale Pre-trained MoE Models.
 
